@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Диас 👋
 
-<!--
-**zhdkss/zhdkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Developer | Founder @ Balgyn** — Алматы, Казахстан
 
-Here are some ideas to get you started:
+🧵 Основатель [Balgyn](https://balgynbol.kz) — бренд кастомной вышивки. Сам написал e-commerce платформу: React, собственный REST API, админ-панель, оплата FreedomPay, Telegram-уведомления, мультивалютность
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 6 месяцев коммерческого опыта Software Engineer (Java)
+
+🎓 Narxoz University — сооснователь киберспортивного клуба Narxoz Thunder
+
+📷 Instagram: [@balgyn.bol](https://www.instagram.com/balgyn.bol/)
+
+**Стек:** Java · Spring Boot · SQL · REST API · React · Git
+
+📫 zhakaevdias228@gmail.com · [LinkedIn](https://www.linkedin.com/in/diasabris)
