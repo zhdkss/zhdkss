@@ -6,7 +6,6 @@
 
 💻 6 месяцев коммерческого опыта Software Engineer (Java)
 
-🎓 Narxoz University — сооснователь киберспортивного клуба Narxoz Thunder
 
 📷 Instagram: [@balgyn.bol](https://www.instagram.com/balgyn.bol/)
 
